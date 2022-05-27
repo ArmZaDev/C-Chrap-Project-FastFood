@@ -13,7 +13,7 @@ namespace CPE363Project
 {
     public partial class dashboard : Form
     {
-        //โย่วๆ
+        
         public dashboard()
         {
             InitializeComponent();           
